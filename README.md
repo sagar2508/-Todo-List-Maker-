@@ -57,7 +57,7 @@ A simple and efficient Todo List web application built using **Python and Flask*
 
 ## ▶️ Usage
 
-- Open your browser and go to `http://127.0.0.1:5000/`  
+- Open your browser and go to `http://127.0.0.1:8000/`  
 - Add your daily tasks  
 - Edit, complete, or delete tasks as needed  
 
